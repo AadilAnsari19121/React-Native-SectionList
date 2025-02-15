@@ -1,0 +1,70 @@
+[
+    {
+        "MonthDT": "Feb 2025",
+        "Mdata": [
+            { "id": 1, "ItemName": "Dry Manchurian", "Amount": "30", "Time": "2025-02-10T07:24:17.404Z" },
+            { "id": 2, "ItemName": "Veg Biryani", "Amount": "68", "Time": "2025-02-10T10:35:05.499Z" },
+            { "id": 3, "ItemName": "Paneer Tikka", "Amount": "150", "Time": "2025-02-11T12:36:15.755Z" },
+            { "id": 4, "ItemName": "Chili Potato", "Amount": "58", "Time": "2025-02-11T14:36:23.073Z" },
+            { "id": 5, "ItemName": "Hakka Noodles", "Amount": "85", "Time": "2025-02-12T15:36:27.648Z" },
+            { "id": 6, "ItemName": "Spring Rolls", "Amount": "120", "Time": "2025-02-12T16:36:31.594Z" },
+            { "id": 7, "ItemName": "Momos", "Amount": "50", "Time": "2025-02-13T17:36:36.159Z" },
+            { "id": 8, "ItemName": "French Fries", "Amount": "70", "Time": "2025-02-13T18:36:41.211Z" }
+        ],
+        "MCost": 631
+    },
+    {
+        "MonthDT": "Jan 2025",
+        "Mdata": [
+            { "id": 9, "ItemName": "Vada Pav", "Amount": "170", "Time": "2025-01-02T18:45:00.000Z" },
+            { "id": 10, "ItemName": "Pani Puri", "Amount": "110", "Time": "2025-01-14T19:00:00.000Z" },
+            { "id": 11, "ItemName": "Chole Bhature", "Amount": "130", "Time": "2025-01-28T18:00:00.000Z" },
+            { "id": 12, "ItemName": "Dahi Puri", "Amount": "190", "Time": "2025-01-26T19:05:00.000Z" },
+            { "id": 13, "ItemName": "Misal Pav", "Amount": "100", "Time": "2025-01-31T23:50:00.000Z" },
+            { "id": 14, "ItemName": "Sev Puri", "Amount": "140", "Time": "2025-01-20T16:00:00.000Z" },
+            { "id": 15, "ItemName": "Bhel Puri", "Amount": "160", "Time": "2025-01-18T07:00:00.000Z" }
+        ],
+        "MCost": 1000
+    },
+    {
+        "MonthDT": "Dec 2024",
+        "Mdata": [
+            { "id": 16, "ItemName": "Dahi Puri", "Amount": "190", "Time": "2024-12-26T19:05:00.000Z" },
+            { "id": 17, "ItemName": "Sev Puri", "Amount": "140", "Time": "2024-12-14T16:00:00.000Z" },
+            { "id": 18, "ItemName": "Pani Puri", "Amount": "110", "Time": "2024-12-10T19:00:00.000Z" },
+            { "id": 19, "ItemName": "Golgappe", "Amount": "130", "Time": "2024-12-05T11:00:00.000Z" },
+            { "id": 20, "ItemName": "Pakora", "Amount": "180", "Time": "2024-12-03T16:52:00.000Z" },
+            { "id": 21, "ItemName": "Chaat", "Amount": "110", "Time": "2024-12-01T18:00:00.000Z" },
+            { "id": 22, "ItemName": "Bhel Puri", "Amount": "160", "Time": "2024-12-07T07:00:00.000Z" }
+        ],
+        "MCost": 1020
+    },
+    {
+        "MonthDT": "Nov 2024",
+        "Mdata": [
+            { "id": 23, "ItemName": "Chaat", "Amount": "110", "Time": "2024-11-17T18:00:00.000Z" },
+            { "id": 24, "ItemName": "Golgappe", "Amount": "130", "Time": "2024-11-25T11:00:00.000Z" },
+            { "id": 25, "ItemName": "Bhel Puri", "Amount": "160", "Time": "2024-11-28T07:00:00.000Z" },
+            { "id": 26, "ItemName": "Sev Puri", "Amount": "140", "Time": "2024-11-12T16:00:00.000Z" },
+            { "id": 27, "ItemName": "Dahi Puri", "Amount": "190", "Time": "2024-11-09T19:05:00.000Z" },
+            { "id": 28, "ItemName": "Misal Pav", "Amount": "100", "Time": "2024-11-06T23:50:00.000Z" },
+            { "id": 29, "ItemName": "Vada Pav", "Amount": "170", "Time": "2024-11-04T18:45:00.000Z" },
+            { "id": 30, "ItemName": "Pani Puri", "Amount": "110", "Time": "2024-11-02T19:00:00.000Z" }
+        ],
+        "MCost": 1110
+    },
+    {
+        "MonthDT": "Oct 2024",
+        "Mdata": [
+            { "id": 31, "ItemName": "Chole Bhature", "Amount": "130", "Time": "2024-10-28T18:00:00.000Z" },
+            { "id": 32, "ItemName": "Kulche", "Amount": "50", "Time": "2024-10-24T09:30:00.000Z" },
+            { "id": 33, "ItemName": "Momos", "Amount": "50", "Time": "2024-10-22T10:26:09.323Z" },
+            { "id": 34, "ItemName": "Spring Rolls", "Amount": "50", "Time": "2024-10-20T10:26:22.040Z" },
+            { "id": 35, "ItemName": "French Fries", "Amount": "50", "Time": "2024-10-18T10:28:26.598Z" },
+            { "id": 36, "ItemName": "Samosa", "Amount": "120", "Time": "2024-10-15T19:12:00.000Z" },
+            { "id": 37, "ItemName": "Pakora", "Amount": "180", "Time": "2024-10-10T16:52:00.000Z" },
+            { "id": 38, "ItemName": "Kachori", "Amount": "150", "Time": "2024-10-05T15:00:00.000Z" }
+        ],
+        "MCost": 780
+    }
+]

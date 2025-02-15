@@ -19,7 +19,8 @@ A **SectionList** is a component in React Native that helps you to display a lis
  
  
 ## Screen Recording:
-<img src="Images/sectionListArray.png" alt="Screen Record" width="350" />
+[![Screen Recording](Images/sectionListArray.png)](Images/SectionListScreenRecord.mp4)
+
 
 As you can see, I have used Google’s transaction history as a reference and created a dummy data set. The SectionList displays the transactions by month, showing the **total amount** for each month in the header. The items inside each section display the **food name**, **amount**, **date**, and **time**.
 

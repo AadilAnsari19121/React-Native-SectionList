@@ -25,7 +25,7 @@ As you can see, I have used Google’s transaction history as a reference and cr
 
 In the code, I created a **dummy array object** that contains information about months, items, and their corresponding total amounts.
 
-<img src="Images/sectionListArray.png" alt="Array Object" width="400" />
+<img src="Images/sectionListArray.png" alt="Array Object" width="500" />
 
 
 ### React Native SectionList Implementation:
@@ -43,7 +43,8 @@ renderItem={renderItemData}
 ## Let's Dive into Each of These:
 ### 1. SectionD – Formatted Array:
 In `SectionD`, I filtered and formatted the array to match the required structure. This array is now ready to be used in the **SectionList** component.
-![SectionD Code Screenshot here](path-to-image)
+
+<img src="Images/sectionListCode.png" alt="SectionD" width="500" />
 
 
 ### 2. renderSectionHeaderData – Section Header:

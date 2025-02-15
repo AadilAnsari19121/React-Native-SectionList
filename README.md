@@ -15,7 +15,9 @@ A **SectionList** is a component in React Native that helps you to display a lis
 - Ability to display data in sections, making it more organized
 - Built-in support for rendering headers for each section
 - No need for external libraries (SectionList is an inbuilt React Native component)
-
+ 
+ 
+ 
 ## Screen Recording:
 <img src="Images/sectionListArray.png" alt="Screen Record" width="350" />
 
@@ -39,18 +41,22 @@ sections={SectionD}
 renderSectionHeader={renderSectionHeaderData} 
 renderItem={renderItemData}
 ```
+<br/>
 
 ## Let's Dive into Each of These:
 ### 1. SectionD – Formatted Array:
 In `SectionD`, I filtered and formatted the array to match the required structure. This array is now ready to be used in the **SectionList** component.
 
-<img src="Images/sectionListCode.png" alt="SectionD" width="500" />
+<img src="Images/sectionListCodeFoSectionDArray.png" alt="SectionD" width="600" />
 
+<br/>
 
 ### 2. renderSectionHeaderData – Section Header:
 This function defines how each section header will look. In this case, it shows the **month** and the **total amount** for that month.
-![renderSectionHeaderData Code Screenshot here](path-to-image)
 
+<img src="Images/sectionListCodeFoSectionListHeader.png" alt="Section List" width="600" />
+
+<br/>
 
 ### 3. renderItemData – Rendering Items:
 This function renders each item in the section. It displays:
@@ -61,17 +67,21 @@ This function renders each item in the section. It displays:
 Additionally, I used:
 - `truncateTitle(item.ItemName)` to ensure that the **title length** does not exceed 20 characters, truncating longer titles.
 - `DecodeDate(item.Time)` to convert the time from ISO format to a more readable format, such as **Fri 14 Feb | 12:06 AM**.
-![renderItemData Code Screenshot here](path-to-image)
+<img src="Images/sectionListCodeFoSectionListItemData.png" alt="Section List" width="600" />
 
+<br/>
 
 ### 4. truncateTitle – Truncating Titles:
 This function ensures that the item name does not exceed 20 characters. If the title is too long, it gets sliced.
-![truncateTitle Code Screenshot here](path-to-image)
 
+<img src="Images/sectionListCodeForTitleSlice.png" alt="Section List" width="900" />
+
+<br/>
 
 ### 5. DecodeDate – Decoding Date and Time:
 This function decodes the datetime (e.g., `2025-02-13T18:36:41.211Z`) and formats it into a human-readable format like **Fri 14 Feb | 12:06 AM**.
-![DecodeDate Function Screenshot here](path-to-image)
+
+<img src="Images/sectionListCodeForDecodeDate.png" alt="Section List" width="750" />
 
 ---
 
